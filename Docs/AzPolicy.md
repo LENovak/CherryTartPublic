@@ -100,4 +100,4 @@ Flexibility: Policies can be tailored to specific organizational needs, enabling
 In essence, Azure Policy is a vital tool for maintaining a controlled, secure, and organized cloud environment within Microsoft Azure. It empowers organizations to enforce best practices, meet compliance standards, and align their cloud resources with their overall business goals.
 
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https://github.com/LENovak/CherryTartPublic/blob/main/Automation/AzPolicyAutomation.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fgithub.com%2FLENovak%2FCherryTartPublic%2Fblob%2Fmain%2FAutomation%2FAzurePolicy%2Fazuredeploy.json)
